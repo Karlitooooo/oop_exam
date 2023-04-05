@@ -1,6 +1,9 @@
 
 # Object-Oriented Programming Test
 
+Please ensure that you have pulled the repository and created a branch with the following name format: LASTNAME_FIRSTNAME.
+**Chat GPT is prohibited, Copilot must be disabled, and switching windows is forbidden under penalty of 0.**
+
 1) Create a base class called LibraryObject with the following attributes:
 	- id: string 
 	- title: string
@@ -30,6 +33,8 @@
 
 9) Implement a method called addObject() in Library that takes a LibraryObject object as a parameter and adds it to the objects array. The method should also increment the value of numObjects.
 
-10) Implement a static method called countObjects() in Library that returns the value of numObjects.# Object-Oriented Programming Test
+10) Implement a static method called countObjects() in Library that returns the value of numObjects.
 
-11) Implement a method called filterObjectByCategory()  that takes a category as a parameter and returns the filtered array. If the category does not exist in the array, the method should print that no object where found
+11) Implement a method called filterObjectByCategory() that takes a category as a parameter and returns the filtered array. If the category does not exist in the array, the method should print that no object where found.
+
+12) Write a main to demonstrate that the program works
