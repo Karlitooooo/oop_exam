@@ -3,6 +3,7 @@
 
 Please ensure that you have pulled the repository and created a branch with the following name format: LASTNAME_FIRSTNAME.
 
+
 **Chat GPT is prohibited, Copilot must be disabled, and switching windows is forbidden under penalty of 0.**
 
 1) Create a base class called LibraryObject with the following attributes:
