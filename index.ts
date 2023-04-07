@@ -139,7 +139,7 @@ function main() {
   library_1.addObject(new Book('2', 'Némo', 'Oui', new Date(), 'Enfant', 638));
 
   const library_2 = new Library();
-  library_2.addObject(new DVD('3', 'Harry Potter 2', 'JK', new Date('01/02/2000'), 'Magie', 98512);
+  library_2.addObject(new DVD('3', 'Harry Potter 2', 'JK', new Date('01/02/2000'), 'Magie', 98512));
 
   console.log(Library.countObjects());
   console.log(library_1.filterObjectByCategory('Magie'));
